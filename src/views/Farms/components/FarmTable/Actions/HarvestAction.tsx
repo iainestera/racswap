@@ -43,7 +43,7 @@ const HarvestAction: React.FunctionComponent<HarvestActionProps> = ({ pid, userD
     <ActionContainer style={{ maxWidth: '380px' }}>
       <ActionTitles>
         <div>
-          <span>KAC</span>
+          <span>RAC</span>
           <span>{t('Rewards')}</span>
         </div>
         <div className="balance">
